@@ -1,4 +1,4 @@
 # Motorcycles
 All kind of motorcycles are here
 
-Correção da palavra exemplo
+Correção da palavra EXEMPLO
